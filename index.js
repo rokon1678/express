@@ -5,7 +5,7 @@
  * Copyright(c) 2014-2015 Douglas Christopher Wilson
  * MIT Licensed
  */
-
+# SHAMPAR
 'use strict';
 
 module.exports = require('./lib/express');
